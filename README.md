@@ -38,4 +38,3 @@ src
 >Executar npm run build usando o **NPM**
 >ou yarn build utilizando o **YARN**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
