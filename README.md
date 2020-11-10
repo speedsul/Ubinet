@@ -9,17 +9,17 @@ Olá essa é uma aplicação construida em reactjs a fim de entreagar uma soluç
 src  
 └─ components  
 │├─banner
-│ ├─ index.js 
-│ └─ styled.js 
-│├─features 
-│ ├─ index.js 
-│ └─ styled.js 
-│├─post
-│ ├─ index.js 
-│ └─ styled.js 
-└─ theme
-│ ├─ Footer.js  
-│ └─ Header.js 
+│ ├─ index.js   
+│ └─ styled.js  
+│├─features   
+│ ├─ index.js   
+│ └─ styled.js  
+│├─post   
+│ ├─ index.js   
+│ └─ styled.js   
+└─ theme  
+│ ├─ Footer.js    
+│ └─ Header.js   
 
 
 ## Clonando o repositório
